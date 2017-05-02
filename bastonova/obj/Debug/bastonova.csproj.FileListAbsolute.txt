@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\bin\Debug\bastonova.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\bin\Debug\bastonova.exe
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\bin\Debug\bastonova.pdb
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\bin\Debug\OpenTK.dll
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\bin\Debug\SunshineConsole.dll
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\bin\Debug\OpenTK.xml
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\obj\Debug\bastonova.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\obj\Debug\bastonova.exe
+c:\users\michael\documents\visual studio 2015\Projects\bastonova\bastonova\obj\Debug\bastonova.pdb
