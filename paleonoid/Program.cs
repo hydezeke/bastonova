@@ -8,13 +8,13 @@ using SunshineConsole;
 using OpenTK.Graphics;
 using OpenTK.Input;
 
-namespace bastonova
+namespace paleonoid
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ConsoleWindow console = new ConsoleWindow(16, 40, "Sunshine Console Hello World");
+            ConsoleWindow console = new ConsoleWindow(16, 40, "paleonoid");
             int x = 0;
             int y = 0;
             while (true)
